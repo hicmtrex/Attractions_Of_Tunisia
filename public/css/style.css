@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.text-center > a{
+    color: magenta;
+    }
+    
+h1{
+
+  font-weight:bold;
+}
+.fas{
+    padding: 5px;
+    font-size: 40px;
+    transition: all 0.3s;
+    margin: 10px;
+}
+.fas:hover{
+ color: goldenrod;
+}
+#blue{
+    transition: all 0.3s;
+}
+
+#blue:hover{
+   background-color: dodgerblue;
+    color: azure;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+}
+.rounded{
+    transition: all 0.5s;
+    position: relative;
+    bottom: 450px;
+    left: 600px;
+}
+
+
+.fab{
+    float: right;
+   
+      font-size: 25px;
+      margin:0 5px ;
+     transition: all 0.3s;
+   }
+   .fab:hover{
+    color: white;
+   }
+
+   #map{
+       width: 100%;
+       height: 300px;
+   }
+
+   #cluster-map{
+    width: 100%;
+    height: 500px; 
+   }
+  #headFooter{
+      color: white;
+      font-size: 25px;
+  }
+
+.navbar{
+    background-color:#202126 ;
+}
+
+/* #buttons{
+ position: absolute;
+ bottom: 10px;
+} */
+
+/* small{
+    position: absolute;
+    top: 240px;
+} */
+
+#boxMap{
+    font-size: 1.1rem;
+}

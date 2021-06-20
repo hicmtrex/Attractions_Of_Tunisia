@@ -1,0 +1,37 @@
+<% layout('layouts/boilerplate')%>
+<div class="row">
+  <h1 class="text-center">Add Attractions</h1>
+  <div class="col-6 offset-3">
+
+    <form class="needs-validation" action="/campgrounds/camping" method="POST" novalidate enctype="multipart/form-data">
+        <div class="mb-3">
+          <label for="title" class="form-label">City</label>
+          <input type="text" class="form-control" id="title" name="campground[title]"required>
+        </div>
+        
+        <div class="mb-3">
+          <label for="location" class="form-label">Location</label>
+          <input type="text" class="form-control" id="location" name="campground[location]"required>
+        </div>
+
+        <div class="mb-3">
+          <label class="form-label" for="description">description</label>
+          <textarea class="form-control" type="text" id="description" name="campground[description]"required cols="30" rows="4"></textarea>
+      </div >
+      <div class="mb-3">
+        <div class="form-file custom-file">
+            <input type="file" class="form-file-input" id="image" name="image" multiple>
+            <label class="form-file-label" for="image">
+                <span class="form-file-text custom-file-label">Choose image(s)...</span>
+                <span class="form-file-button">Browse</span>
+            </label>
+        </div>
+    </div>
+    <div class="mb-3">
+        <button type="submit" class="btn btn-success">Add Attractions</button>
+      </div>
+      </form>
+  
+
+    </div>
+    </div>
