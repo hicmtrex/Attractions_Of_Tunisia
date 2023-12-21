@@ -1,0 +1,318 @@
+repo_name: hicmtrex/Attractions_Of_Tunisia
+report_id: aff5b5eb30041e2ad10e7fbb7f749a58
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-21T15:33:37+00:00'
+requested_by: hicmtrex
+provider: github
+branch: main
+detected_tools_count: 24
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: EJS
+  description: An Embedded JavaScript templating Language
+  website_url: https://ejs.co/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+- name: Mongoose
+  description: MongoDB object modeling designed to work in an asynchronous environment
+  website_url: http://mongoosejs.com/
+  version: 5.12.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Document Mapper (ODM)
+  image_url: https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+- name: Cloudinary
+  description: An end-to-end image &amp; video management solution for your web and
+    mobile applications
+  website_url: http://cloudinary.com/
+  open_source: false
+  hosted_saas: true
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/304/default_d0fb82038ec18f67ca33bf6ce0df0bffb427e94f.png
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+- name: Mapbox
+  description: Design and publish beautiful maps
+  website_url: https://www.mapbox.com/
+  open_source: true
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Mapping APIs
+  image_url: https://img.stackshare.io/service/1640/cvosutVr_400x400.jpg
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source: public/fonts/Montserrat/OFL.txt
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+- name: Passport
+  description: Simple, unobtrusive authentication for Node.js
+  website_url: http://passportjs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: User Management and Authentication
+  image_url: https://ucarecdn.com/8f3cac0e-b146-4f0f-878c-680a6671d804/
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+- name: connect-mongo
+  description: MongoDB session store for Express and Connect
+  package_url: https://www.npmjs.com/connect-mongo
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17588/default_e98b11d23d67b728bd1f3e02eba62d97a55febbd.png
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+- name: express-session
+  description: Simple session middleware for Express
+  package_url: https://www.npmjs.com/express-session
+  version: 1.17.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16239/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+- name: helmet
+  description: Help secure Express/Connect apps with various HTTP headers
+  package_url: https://www.npmjs.com/helmet
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16584/default_7be6bee773ad8b04cf2fb7e9ff82f5d7ba648dfd.png
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+- name: joi
+  description: Object schema validation
+  package_url: https://www.npmjs.com/joi
+  version: 17.4.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16173/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+- name: mapbox-gl
+  description: A WebGL interactive maps library
+  package_url: https://www.npmjs.com/mapbox-gl
+  version: 2.3.0
+  license: ICU
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18073/image.png
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+- name: method-override
+  description: Override HTTP verbs
+  package_url: https://www.npmjs.com/method-override
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16758/default_92482df1bcbe0d3a46cc1d597c9687a42da1cd04.png
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+- name: multer
+  description: Middleware for handling `multipart/form-data`
+  package_url: https://www.npmjs.com/multer
+  version: 1.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16421/default_23e0dabcd0197f0c1f0a41268f8ca3f7e8b1f1e2.png
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+- name: passport-local
+  description: Local username and password authentication strategy for Passport
+  package_url: https://www.npmjs.com/passport-local
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16747/default_adce7cef6d131ffc31466624541462e4db9534d4.png
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
+- name: sanitize-html
+  description: Clean up user-submitted HTML
+  package_url: https://www.npmjs.com/sanitize-html
+  version: 2.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17508/default_1d2902e8f9c84259702671591379572493b9009b.png
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: hicm
+  last_updated_on: 2021-06-20 21:02:00.000000000 Z
