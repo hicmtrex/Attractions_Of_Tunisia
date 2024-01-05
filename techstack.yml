@@ -2,7 +2,7 @@ repo_name: hicmtrex/Attractions_Of_Tunisia
 report_id: aff5b5eb30041e2ad10e7fbb7f749a58
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T15:33:37+00:00'
+timestamp: '2024-01-05T08:17:18+00:00'
 requested_by: hicmtrex
 provider: github
 branch: main
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia
   detection_source: Repo Metadata
 - name: EJS
   description: An Embedded JavaScript templating Language
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package.json
   detection_source: package.json
   last_updated_by: hicm
   last_updated_on: 2021-06-20 21:02:00.000000000 Z
@@ -38,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -48,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package.json
   detection_source: package.json
   last_updated_by: hicm
   last_updated_on: 2021-06-20 21:02:00.000000000 Z
@@ -89,6 +93,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package.json
   detection_source: package.json
   last_updated_by: hicm
   last_updated_on: 2021-06-20 21:02:00.000000000 Z
@@ -100,6 +105,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia
   detection_source: Repo Metadata
 - name: RubyGems
   description: Easily download, install, and use ruby software packages on your system
@@ -109,6 +115,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package.json
   detection_source: package.json
   last_updated_by: hicm
   last_updated_on: 2021-06-20 21:02:00.000000000 Z
@@ -120,6 +127,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package.json
   detection_source: package.json
   last_updated_by: hicm
   last_updated_on: 2021-06-20 21:02:00.000000000 Z
@@ -132,6 +140,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/304/default_d0fb82038ec18f67ca33bf6ce0df0bffb427e94f.png
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package.json
   detection_source: package.json
   last_updated_by: hicm
   last_updated_on: 2021-06-20 21:02:00.000000000 Z
@@ -143,6 +152,7 @@ tools:
   category: Application Utilities
   sub_category: Mapping APIs
   image_url: https://img.stackshare.io/service/1640/cvosutVr_400x400.jpg
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package.json
   detection_source: package.json
   last_updated_by: hicm
   last_updated_on: 2021-06-20 21:02:00.000000000 Z
@@ -154,6 +164,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/public/fonts/Montserrat/OFL.txt
   detection_source: public/fonts/Montserrat/OFL.txt
   last_updated_by: hicm
   last_updated_on: 2021-06-20 21:02:00.000000000 Z
@@ -166,6 +177,7 @@ tools:
   category: Application Utilities
   sub_category: User Management and Authentication
   image_url: https://ucarecdn.com/8f3cac0e-b146-4f0f-878c-680a6671d804/
+  detection_source_url: https://github.com/hicmtrex/Attractions_Of_Tunisia/blob/main/package.json
   detection_source: package.json
   last_updated_by: hicm
   last_updated_on: 2021-06-20 21:02:00.000000000 Z
